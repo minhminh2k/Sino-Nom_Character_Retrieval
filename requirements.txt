@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+numpy-stl
+opencv-python
+scikit-image
+scikit-learn
+gdown
+pyrootutils    
+ipykernel
