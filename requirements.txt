@@ -6,5 +6,6 @@ opencv-python
 scikit-image
 scikit-learn
 gdown
-pyrootutils    
+pyrootutils   
 ipykernel
+pillow
