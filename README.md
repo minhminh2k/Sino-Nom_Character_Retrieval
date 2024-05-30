@@ -95,7 +95,7 @@ The directory structure
 
 ## Results
 
-Here are our results obtained from experiments:
+Here are our results obtained from experiments using the MRR@5 metric:
 
 | Method            | Database   | Pairs      |
 | ----------------- | ---------- | ---------- |
@@ -109,3 +109,4 @@ Here are our results obtained from experiments:
 
 - [Abstract Report](report/Mid_term_Phase_2_Image_Processing_group11.pdf)
 - [Mid-term Phase 2 Report](report/Mid_term_Phase_2_Image_Processing_group11.pdf)
+- [Final Report](report/Final_Report_Image_Processing_group11-1.pdf)
